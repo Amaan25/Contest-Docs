@@ -1,14 +1,14 @@
-# [LeetCode Weekly Contest 373] (https://leetcode.com/contest/weekly-contest-373/)
+# [LeetCode Weekly Contest 373](https://leetcode.com/contest/weekly-contest-373/)
 
-## 1. [Matrix Similarity After Cyclic Shifts] (https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/)
+## 1. [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/)
 
 For every element in the matrix, check if mat\[i\]\[j\] == mat\[i\]\[(j+k)%n\] where n = mat\[0\].size()
 
-## 2. [Count Beautiful Substrings I] (https://leetcode.com/problems/count-beautiful-substrings-i/)
+## 2. [Count Beautiful Substrings I](https://leetcode.com/problems/count-beautiful-substrings-i/)
 
 Brute force: for every pair i, j, calculate the number of vowels and consonents, add 1 to ans if vowels == consonents and vowels\*consonents%k == 0
 
-## 3. [Make Lexicographically Smallest Array by Swapping Elements] (https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/)
+## 3. [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/)
 
 Similar to: [Smallest String With Swaps] (https://leetcode.com/problems/smallest-string-with-swaps/), for a given string and given pair of indices that can be swapped, find the lexicographically smallest string possible.
 
@@ -45,4 +45,4 @@ int find(vector<int>& ds, int i) {
 	sort(begin(a), end(a), [&](int i, int j) { return nums[i] < nums[j];});
 ```
 
-## 4. [Count Beautiful Substrings II] (https://leetcode.com/problems/count-beautiful-substrings-ii/)
+## 4. [Count Beautiful Substrings II](https://leetcode.com/problems/count-beautiful-substrings-ii/)
