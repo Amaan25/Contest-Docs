@@ -1,4 +1,4 @@
-### [CodeChef Starters 117 (Div. 2)](https://www.codechef.com/START117B?order=desc&sortBy=successful_submissions)
+# [CodeChef Starters 117 (Div. 2)](https://www.codechef.com/START117B?order=desc&sortBy=successful_submissions)
 [Contest Editorial](https://discuss.codechef.com/tags/c/editorial/5/start117)
 
 ## [Spell Shortening](https://www.codechef.com/problems/SHORTSPELL) (1192)
@@ -45,29 +45,9 @@ Same condition holds for rows, max(1, N-k) <= x <= min(N, 1+k), multiply by k + 
 ## [Roads and Flights](https://www.codechef.com/problems/ROADAIR) (2927)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Code
 
-# Spell Shortening
+### Spell Shortening
 
 ```
 
@@ -102,7 +82,7 @@ int main() {
 
 ```
 
-# Not Prime Permutation
+### Not Prime Permutation
 
 ```
 
@@ -138,7 +118,7 @@ int main() {
 
 ```
 
-# Equality Etiquette 
+### Equality Etiquette 
 
 ```
 
@@ -193,7 +173,7 @@ signed main() {
 
 ```
 
-# Spread Spree
+### Spread Spree
 
 ```
 
@@ -239,19 +219,19 @@ signed main() {
 
 ```
 
-# Stingy Arrays
+### Stingy Arrays
 
 ```
 
 ```
 
-# Go Away, Goose!
+### Go Away, Goose!
 
 ```
 
 ```
 
-# Roads and Flights
+### Roads and Flights
 
 ```
 
